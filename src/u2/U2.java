@@ -37,6 +37,7 @@ public class U2 {
         for (List<String> pattern : result) {
             display(pattern);
         }
+        System.out.println();
     }
 
 }
